@@ -3,5 +3,7 @@ Cardiovascular disease (CVD) encompasses a range of conditions affecting the hea
 some common types of cardiovascular diseases: Heart Failure, Hypertension (High Blood Pressure).
 
 
+![1ST PAGE](https://github.com/Prathamesh9764/Cardiovascular-disease-prediction/assets/92622855/77f11b63-a9a5-4391-8004-6c39fcc30fb9)
 
 
+![2ND PAGE](https://github.com/Prathamesh9764/Cardiovascular-disease-prediction/assets/92622855/3eb39f40-d164-48fe-be77-be746c03cb23)
